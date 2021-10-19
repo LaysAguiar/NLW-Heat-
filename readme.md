@@ -1,3 +1,0 @@
-client secret
-
-defa8be4eae98f16ea74257a35df76675791dd80
